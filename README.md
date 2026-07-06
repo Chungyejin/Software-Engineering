@@ -15,13 +15,13 @@
 <br>
 
 <details>
-<summary>다이어그램 히스토리 보기 (초기 / 10.16 오전)</summary>
+<summary>다이어그램 히스토리 보기 (초기 / 중간점검)</summary>
 <div markdown="1">
 
 <table>
   <tr align="center">
     <td><strong>초기 다이어그램</strong></td>
-    <td><strong>10.16 오전 다이어그램</strong></td>
+    <td><strong>10.16 중간 다이어그램</strong></td>
   </tr>
   <tr>
     <td width="50%"><img src="./image%20(1).png" width="100%"/></td>
