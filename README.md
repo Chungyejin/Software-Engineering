@@ -10,6 +10,10 @@
 ## 다이어그램
 
 
+<td width="50%"><img src="https://github.com/Chungyejin/Software-Engineering/Software-Engineering/image(1).png" width="100%"/></td>
+  
+
+
 ##  유스케이스 명세서 템플릿
 각 유스케이스는 아래 표준 포맷에 맞추어 작성 및 관리됩니다.
 * **설명 (Descriptions)**
