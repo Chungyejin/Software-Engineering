@@ -10,7 +10,7 @@
 ## 다이어그램
 
 
-<td width="50%"><img src="https://github.com/Chungyejin/Software-Engineering/Software-Engineering/image(1).png" width="100%"/></td>
+<td width="50%"><img src="https://github.com/Chungyejin/Software-Engineering/Software-Engineering/image (1).png" width="100%"/></td>
   
 
 
