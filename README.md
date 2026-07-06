@@ -10,7 +10,7 @@
 ## 다이어그램
 
 ### 최종 다이어그램
-<img src="./image%20(3).png" width="80%" height="300px" />
+<img src="./image%20(3).png" width="80%" height="500px" />
 
 <br>
 
