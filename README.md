@@ -9,16 +9,28 @@
 
 ## 다이어그램
 
-### 초기 다이어그램
-<td width="50%"><img src="./image%20(1).png" width="100%"/></td>
+###  최종 다이어그램
+<img src="./image%20(3).png" width="80%" />
 
-###10.16 오전 다이어그램
-<td width="50%"><img src="./image%20(2).png" width="100%"/></td>
+<br>
 
-###최종 다이어그램
-<td width="50%"><img src="./image%20(3).png" width="100%"/></td>
-  
+<details>
+<summary>🔍 <b>다이어그램 히스토리 보기 (초기 / 10.16 오전)</b></summary>
+<div markdown="1">
 
+<table>
+  <tr align="center">
+    <td><strong>초기 다이어그램</strong></td>
+    <td><strong>10.16 오전 다이어그램</strong></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./image%20(1).png" width="100%"/></td>
+    <td width="50%"><img src="./image%20(2).png" width="100%"/></td>
+  </tr>
+</table>
+
+</div>
+</details>
 
 ##  유스케이스 명세서 템플릿
 각 유스케이스는 아래 표준 포맷에 맞추어 작성 및 관리됩니다.
