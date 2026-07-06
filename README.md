@@ -9,13 +9,13 @@
 
 ## 다이어그램
 
-###  최종 다이어그램
+### 최종 다이어그램
 <img src="./image%20(3).png" width="80%" />
 
 <br>
 
 <details>
-<summary>🔍 <b>다이어그램 히스토리 보기 (초기 / 10.16 오전)</b></summary>
+<summary>다이어그램 히스토리 보기 (초기 / 10.16 오전)</summary>
 <div markdown="1">
 
 <table>
