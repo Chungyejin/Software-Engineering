@@ -9,7 +9,7 @@
 
 ## 다이어그램
 
-초기 다이어그램
+# 초기 다이어그램
 <td width="50%"><img src="./image%20(1).png" width="100%"/></td>
 10.16 오전 다이어그램
 <td width="50%"><img src="./image%20(2).png" width="100%"/></td>
